@@ -39,7 +39,7 @@ To run locally:
 
 ## Deployment
 
-Can be deployed to heroku.
+This is deployed to heroku [here](https://google-vision-test-api.herokuapp.com/)
 
 ## Authors
 * Grace Dorgan '21
