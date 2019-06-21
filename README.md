@@ -39,7 +39,7 @@ To run locally:
 
 ## Deployment
 
-The backend server is deployed to heroku [here](https://google-vision-test.herokuapp.com/).
+Can be deployed to heroku.
 
 ## Authors
 * Grace Dorgan '21
