@@ -51,8 +51,8 @@ console.log(`listening on: ${port}`);
 // mong ocommand to create a photo obj
 // db.photos.insert(
 //    {
-//        'img': 'https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80',
-//        'vis_tag': 'cat',
+//        'img': 'https://cdn.shopify.com/s/files/1/0495/7773/products/A_grade_skirt_Man_O_War_Stellla_3.jpg?v=1525686210',
+//        'vis_tag': 'woman',
 //       'tag_correct': 'null',
 //     }
 //   )
